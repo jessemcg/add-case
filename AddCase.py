@@ -6,7 +6,7 @@ gi.require_version('Gtk', '4.0')
 from gi.repository import Gtk, Gdk
 
 # Assign variable to the concordance file path
-k = '/home/jesse/Dropbox/MCGLAW/CONCORDANCE/Concordance_File.sdi'
+k = '$HOME/add-case/concordance.sdi'
 
 class ConcordanceFileApp(Gtk.ApplicationWindow):
     def __init__(self, app):
