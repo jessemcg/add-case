@@ -21,6 +21,6 @@ Run it from the terminal
 Or place the above command in a script launching app like [Launcher](https://extensions.gnome.org/extension/5874/launcher/).
 
 # Usage
-To automatically generate a table of authorities after a brief as been written, edit the table of authorities and select the concordance file. The concordance file is located at '$HOME/add-case/concordance.sdi'. If you move it, just update the concordance file path in the AddCase.py script.
+To automatically generate a table of authorities after a brief as been written with LibreOffice Writer, edit the table of authorities and select the concordance file. The concordance file is located at $HOME/add-case/concordance.sdi. If you move it, just update the concordance file path in the AddCase.py script.
 
 <img src="choose_concordance.png" width="700">
