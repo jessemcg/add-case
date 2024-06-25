@@ -18,7 +18,7 @@ Run it from the terminal
 
 	python $HOME/add-case/AddCase.py
 
-Or place the above command in a script launching app like [Launcher](https://extensions.gnome.org/extension/5874/launcher/) or create a .desktop file for it with something like [Pin It](https://flathub.org/apps/com.github.ryonakano.pinit).
+Or launch the script through a script launching app like the [Launcher](https://extensions.gnome.org/extension/5874/launcher/) extension or [script-handler](https://github.com/jessemcg/script-handler).
 
 # Usage
 To automatically generate a table of authorities after a brief as been written with LibreOffice Writer, edit the table of authorities and select the concordance file. The concordance file is located at $HOME/add-case/concordance.sdi. If you move it, just update the concordance file path in the AddCase.py script.
