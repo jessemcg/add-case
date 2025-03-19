@@ -1,7 +1,7 @@
 # add-case
 App designed to quickly add legal citations to a [concordance file](https://help.libreoffice.org/latest/en-US/text/swriter/01/04120250.html). The concordance file keeps track of words or phrases that a user wants marked as entries for automatically generating a table of authorities. For example, if you input a case citation like, *In re R.F.* (2023) 94 Cal.App.5th 718, that cite will be listed in the table authorities with a page number for every time that it is cited in the brief. The table of authorities will also provide a page number for every time that the shortened version is cited in the brief, *In re R.F., supra,* 94 Cal.App.5th at p. 718.
 
-This app is written in Python and has a GTK4 GUI. It only works on linux. Windows users can use [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install).
+This app was written in Python and has a GTK4 GUI. It only works on linux. Windows users can use [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 <img src="screenshot.png" width="420">
 
